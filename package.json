@@ -1,0 +1,26 @@
+{
+"name": "woxiaozhugelwumoufwefw-duanzhiwe942",
+"version": "1.0.0",
+"description": "If you encounter any problems while using the project, refer to the frequently asked questions or contact us for assistance.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/haqsklh5643398/Issue-Resolution.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "haqsklh5643398",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
